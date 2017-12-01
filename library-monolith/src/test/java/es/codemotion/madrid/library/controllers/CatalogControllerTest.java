@@ -38,7 +38,7 @@ public class CatalogControllerTest {
     private final int rating = 3;
     private final String imagePath = "http://bulma.io/images/placeholders/640x480.png";
     private final boolean available = true;
-    private final String author = "Lorem Ipsum Dolor"; 
+    private final String author = "Lorem Ipsum Dolor";  
 
     @Test
     public void shouldReturnAListOfBooks() throws Exception {
